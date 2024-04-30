@@ -17,13 +17,13 @@ Once you join this organization (message me on [twitter](https://x.com/samuelbre
 
 This template uses `pnpm` package manager so make sure you have it installed.
 
-To install all dependencies run: 
+To install all dependencies run:
 
 ```bash
 pnpm i
 ```
 
-To run the app locally: 
+To run the app locally:
 
 ```bash
 pnpm run dev
